@@ -1,5 +1,5 @@
-!(function($) {
+!function($) {
     return $.ender({
         JSON: JSON
     });
-})(ender);
+}(ender);
